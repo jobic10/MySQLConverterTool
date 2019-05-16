@@ -14,7 +14,7 @@
 * @since      Available since Release 1.0
 */
 ?>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML>
 <html>
 <head>
     <title><?php echo (isset($snippet_title)) ? $snippet_title : 'MySQL ext/mysql Converter Tool'; ?></title>
